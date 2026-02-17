@@ -17,7 +17,7 @@ This folder includes the tools used to analize the data that were measured using
 
 The codes included in this folder are devoted to perform automatic measurements that usually involve the use of several devices like the spectrometer, laser, power meter... Some of these codes also include features that enable the previsualization of the collected data.
 
-## Simulations
+## 🖥️ Simulations
 
 The code contained in this folder is devoted to simulate physical systems, which allow us to have a better understanding of our experiments and measurement devices. Some of these simulations also provide optimal parameters for the implementations of specific expetiments. These include Transfer Matrix Method simulations for Cavity QED, simulations for the obtention of optimal parameters for fiber coupling mode matching, polarization calculations with Jones Matrices...    
 
