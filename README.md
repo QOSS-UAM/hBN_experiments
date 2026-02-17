@@ -5,7 +5,7 @@ This experiments are part of the [COMPHORT - QUANTERA](https://www.antonsolanasl
 # 📚 Content
 This folder contained all the measurement and data analysis tools used during these experiments. Below there is a brief explanation for each folder, each file starts with a description of their use.
 
-## 🖥️ Basic Device Controls
+## 🧰 Basic Device Controls
 
 This folder has all the libraries and codes to acces the different machineries of the lab. It includes the showed ones but also others hidden, that can be found in other repositories like [Attocube](), [Qutag]() or [Lightfield](). However some examples on how to operate the hidden and not hidden devices can also be found.
 
@@ -25,7 +25,7 @@ The code contained in this folder is devoted to simulate physical systems, which
 
 Although the code that generates the figures for publications within our group can be found in the repository [Codes_for_publications](https://github.com/QOSS-UAM/Codes_for_publications), the code included in this repository has contributed to the following published works:
 
--[Temporal Coherence of Single Photons Emitted by Hexagonal Boron Nitride Defects at Room Temperature](https://pubs.acs.org/doi/10.1021/acsphotonics.5c02227)
+🔥[Temporal Coherence of Single Photons Emitted by Hexagonal Boron Nitride Defects at Room Temperature](https://pubs.acs.org/doi/10.1021/acsphotonics.5c02227)
 <!--
 
 HE PENSADO QUE TAMBIEN SE PUEDEN INCLUIR LOS PAPERS Y/O POSTERS QUE OCURRAN CON ESTOS EXPERIMENTOS
