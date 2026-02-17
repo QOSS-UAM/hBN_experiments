@@ -1,6 +1,6 @@
 # hBN Experiments
 
-This experiments are part of the [COMPHORT - QUANTERA](https://www.antonsolanaslab.com/research/projects) <!-- Insertar link de la pagina de comphort (no la encontre de momento) --> initiative.
+This experiments are part of the [COMPHORT - QUANTERA](https://www.antonsolanaslab.com/research/projects) <!-- Insertar link de la pagina de comphort (no la encontre de momento) --> initiative 😌.
 
 # 📚 Content
 This folder contained all the measurement and data analysis tools used during these experiments. Below there is a brief explanation for each folder, each file starts with a description of their use.
