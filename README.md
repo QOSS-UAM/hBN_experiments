@@ -17,22 +17,15 @@ This folder includes the tools used to analize the data that were measured using
 
 The codes included in this folder are devoted to perform automatic measurements that usually involve the use of several devices like the spectrometer, laser, power meter... Some of these codes also include features that enable the previsualization of the collected data.
 
-## 🕶️ Pasabanda Tuneable
-
-This is a program build and coded by Alejandro Izquierdo Molina during his bachelor thesis. It allows the rotational control of two bandpass filters, letting us choose the desire center wavelength and width of the transmitted light.
-
-<!-- Aqui tendria que escribir alex algo mas si quiere -->
-
-
-
-## Positioners App
-
-## QOSS_App
-
-## Sample Navigator
-
 ## Simulations
 
+The code contained in this folder is devoted to simulate physical systems, which allow us to have a better understanding of our experiments and measurement devices. Some of these simulations also provide optimal parameters for the implementations of specific expetiments. These include Transfer Matrix Method simulations for Cavity QED, simulations for the obtention of optimal parameters for fiber coupling mode matching, polarization calculations with Jones Matrices...    
+
+## 📄 Publications
+
+Although the code that generates the figures for publications within our group can be found in the repository [Codes_for_publications](https://github.com/QOSS-UAM/Codes_for_publications), the code included in this repository has contributed to the following published works:
+
+-[Temporal Coherence of Single Photons Emitted by Hexagonal Boron Nitride Defects at Room Temperature](https://pubs.acs.org/doi/10.1021/acsphotonics.5c02227)
 <!--
 
 HE PENSADO QUE TAMBIEN SE PUEDEN INCLUIR LOS PAPERS Y/O POSTERS QUE OCURRAN CON ESTOS EXPERIMENTOS
